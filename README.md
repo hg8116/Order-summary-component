@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend-Mentor-Submission](https://www.frontendmentor.io/solutions/-semantic-html5-markup-css-custom-properties-flexbox-css-grid-yTdxt0xBh)
 - Live Site URL: [Order-Summary-Component](https://hg8116.github.io/Order-summary-component/)
 
 ## My process
